@@ -85,13 +85,12 @@ Flags update based on selected country code
 Uses async/await for API handling
 
 ## 📸 Preview
-
-![Currency Converter Screenshot](./img/pexels-daniel-dan-47825192-7542862.jpg)
+<img width="1280" height="676" alt="Screenshot 2026-01-18 at 3 34 07 PM" src="https://github.com/user-attachments/assets/2af2dbc4-8837-454f-bbcf-eb0857832f1b" />
 
 
 🌍 Live Demo
 
-🔗 Live Demo: https://your-username.github.io/currency-converter/
+🔗 Live Demo: [https://your-username.github.io/currency-converter/](https://currency-converter-js-liard.vercel.app/)
 
 👩‍💻 Author
 Vaishali Chauhan
